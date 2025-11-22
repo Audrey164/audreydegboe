@@ -70,5 +70,4 @@ Remote / Canada
 ---
 
 ## Notes
-- Chaque projet contient **README détaillé**, captures d’écran et instructions pour lancer le projet.  
-- Les projets sont **forkés ou construits à partir de templates open-source** pour rapidité et crédibilité.
+Chaque projet contient **README détaillé**, captures d’écran et instructions pour lancer le projet.  
