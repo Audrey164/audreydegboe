@@ -51,7 +51,7 @@ Remote / Canada
 
 ### 8. E-commerce Website
 - Laravel + React/Vue, catalogue, panier, paiement et commandes  
-- [GitHub Link](https://github.com/audreydegboe/e-commerce-website)  
+- [GitHub Link](https://github.com/Audrey164/E-commerce-website)
 
 ### 9. Microservices Architecture
 - Node.js + Docker, architecture scalable et maintenance aisée  
