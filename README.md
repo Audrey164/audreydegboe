@@ -66,8 +66,3 @@ Remote / Canada
 ## Languages / Langues
 - Français : Native  
 - English : B1
-
----
-
-## Notes
-Chaque projet contient **README détaillé**, captures d’écran et instructions pour lancer le projet.  
