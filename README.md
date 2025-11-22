@@ -27,7 +27,7 @@ Remote / Canada
 
 ### 2. Android Marketplace App
 - Flutter + Firebase, suivi temps réel des commandes et chat  
-- [GitHub Link](https://github.com/audreydegboe/android-marketplace-app)  
+- [GitHub Link](https://github.com/Audrey164/Android-Marketpalce-App)  
 
 ### 3. Enterprise Dashboard with Analytics
 - React + Chart.js + Node.js, reporting temps réel, analytics  
