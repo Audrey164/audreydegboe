@@ -23,7 +23,7 @@ Remote / Canada
 
 ### 1. SaaS Multi-Vendor Platform
 - Laravel + React, multi-tenant, paiement sécurisé  
-- [GitHub Link](https://github.com/audreydegboe/saas-multi-vendor-platform)  
+- [GitHub Link](https://github.com/Audrey164/SaaS-Multi-Vendor-Platform)  
 
 ### 2. Android Marketplace App
 - Flutter + Firebase, suivi temps réel des commandes et chat  
