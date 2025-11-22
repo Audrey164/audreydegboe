@@ -5,7 +5,7 @@
 Remote / Canada  
 📧 degboeaudrey@gmail.com  
 🔗 Portfolio: [TonPortfolio.com](https://tonportfolio.com)  
-🔗 GitHub: [github.com/audreydegboe](https://github.com/audreydegboe)
+🔗 GitHub: [github.com/audreydegboe](https://github.com/Audrey164)
 
 ---
 
