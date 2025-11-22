@@ -35,7 +35,7 @@ Remote / Canada
 
 ### 4. Secure REST API Suite
 - Node.js + Express, JWT + OAuth2, architecture Docker  
-- [GitHub Link](https://github.com/audreydegboe/secure-rest-api-suite)  
+- [GitHub Link](https://github.com/Audrey164/Secure-REST-API-Suite)  
 
 ### 5. CRM & ERP Simplified System
 - Laravel + Vue.js, gestion simplifiée des clients et produits  
