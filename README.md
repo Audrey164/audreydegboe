@@ -31,7 +31,7 @@ Remote / Canada
 
 ### 3. Enterprise Dashboard with Analytics
 - React + Chart.js + Node.js, reporting temps réel, analytics  
-- [GitHub Link](https://github.com/audreydegboe/enterprise-dashboard)  
+- [GitHub Link](https://github.com/Audrey164/Enterprise-Dashboard-with-Analytics)  
 
 ### 4. Secure REST API Suite
 - Node.js + Express, JWT + OAuth2, architecture Docker  
