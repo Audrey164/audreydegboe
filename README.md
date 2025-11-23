@@ -4,7 +4,6 @@
 
 Remote / Canada  
 📧 degboeaudrey@gmail.com  
-🔗 Portfolio: [Prtfolio-Audrey.com](https://gorgeous-froyo-7c940a.netlify.app/)  
 🔗 GitHub: [github.com/audreydegboe](https://github.com/Audrey164)
 
 ---
