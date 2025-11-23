@@ -2,8 +2,10 @@
 
 ## Senior Full-Stack Developer (Web & Mobile)
 
-Remote / Canada  
-📧 degboeaudrey@gmail.com  
+Remote / Internationnal
+
+📧 degboeaudrey@gmail.com
+
 🔗 GitHub: [github.com/audreydegboe](https://github.com/Audrey164)
 
 ---
